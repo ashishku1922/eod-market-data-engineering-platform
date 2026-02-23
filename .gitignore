@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+
+# PyCharm
+.idea/
+
+# Airflow
+logs/
+airflow.db
+
+# Environment files
+.env
+
+# OS
+.DS_Store
